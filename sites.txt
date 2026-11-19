@@ -2,3 +2,5 @@ https://true-education.netlify.app/
 https://true-education.pages.dev/
 https://true-education-fan.surge.sh/
 https://lacallela.github.io/true-education/
+https://true-education-fan.firebaseapp.com/
+https://true-education-fan.web.app/
